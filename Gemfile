@@ -6,9 +6,9 @@ gem 'vcardigan'
 gem 'ruby-trello'
 gem 'colorize'
 gem 'pry'
-
+gem 'twilio'
 
 group :test do
   gem 'rspec'
-  # gem 'aruba'
+  gem 'aruba-rspec'
 end
