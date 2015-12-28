@@ -7,5 +7,7 @@ This tool can be used to generate a version 4.0 VCard.
 # Usage
 
     ruby generate.rb
+    
+    ruby parse.rb
 
 # Contribution
